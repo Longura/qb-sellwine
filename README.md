@@ -1,5 +1,6 @@
-# qb-pawnshop
-Pawn Shop For QB-Core
+# qb-sellwine
+DISCLAIMER: This script is based on qb-pawnshop and is A MODIFIED VERSION!
+If you want to see qb-pawnshop: https://github.com/qbcore-framework/qb-pawnshop
 
 # License
 
